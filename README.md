@@ -34,7 +34,7 @@
 </p>
            
 
-<p>step 4 :  Now Register users and if you have referral code then you can use and use this appliaction </p>.
+<p>step 4 :  Now Register users and if you have referral code then you can use and use this appliaction. </p>
 
 <h4>Thank you if you need any help me then mail me given email with problem statement.</h4>
 
